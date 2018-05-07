@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	padding: 50px;
+}
+
+form{
+	width: 360px;
+}
+
+form span{
+	display: inline-block;
+	width: 150px;
+}
+form label{
+	padding: 10px;
+}
+form input[type=text], form input[type=password], form input[type=email]{
+	padding: 10px;
+	margin-top: 10px;
+}
+form input[type=submit]{
+	padding: 10px;
+	margin-right: 3px;
+	margin-top: 10px;
+	background: #2B78E4;
+	color: white;
+	border: 1px solid #2B78E4;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
