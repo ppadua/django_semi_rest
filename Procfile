@@ -1,1 +1,1 @@
-web: gunicorn like_facebook.wsgi
+web: gunicorn semi_restful_users.wsgi
