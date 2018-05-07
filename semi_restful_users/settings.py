@@ -26,6 +26,7 @@ SECRET_KEY = '!_8%qi^l!jdl_f92sd_f2wf!l_f=5#+$r^y(&2^fxba9gducap'
 DEBUG = True
 
 ALLOWED_HOSTS = ['peaceful-woodland-98169.herokuapp.com']
+ALLOWED_HOSTS = []
 
 # Application definition
 
