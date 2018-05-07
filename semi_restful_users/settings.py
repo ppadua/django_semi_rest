@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['peaceful-woodland-98169.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
